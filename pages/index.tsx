@@ -81,6 +81,17 @@ export default function Home() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-D39F4201K7"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-D39F4201K7');
+            `,
+          }}
+        />
       </Head>
       <div className="relative snap-mandatory min-h-screen bg-AAprimary w-full ">
         {context.sharedState.finishedLoading ? (
