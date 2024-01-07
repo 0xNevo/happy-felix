@@ -6,14 +6,14 @@ export default function AboutMe(props) {
     [
       "Solidity",
       "Next.js",
-      "Ether.js",
+      "Ethers.js",
       "Express",
       "Angular",
       "Adobe XD",
       "Django",
       "JavaScript (ES6+)",
       "Tailwind CSS",
-      "BlickChain",
+      "BlockChain",
       "Python",
       "Rust",
     ],
@@ -21,7 +21,7 @@ export default function AboutMe(props) {
       "Rust",
       "React",
       "Figma",
-      "web3.js",
+      "Web3.js",
       "Node.js",
       "Python",
       "TypeScript",
@@ -74,7 +74,7 @@ export default function AboutMe(props) {
                 </span>,{" "}
                 I have full experience in building {" "}
                 <span className="text-AAsecondary">
-                BlockChain and Web apps, designs</span>.
+                  BlockChain and Web apps, designs</span>.
               </span>
             </div>
             <div className="font-Header tracking-wide">
@@ -83,7 +83,7 @@ export default function AboutMe(props) {
                 provide excellent{" "}
                 <span className="text-AAsecondary">programming skills,</span>{" "}
                 effective{" "}
-                <span className="text-AAsecondary">scommunication skills</span>{" "}
+                <span className="text-AAsecondary">communication skills</span>{" "}
                 and high quality product.
               </span>
               <br className="md:block hidden" />
@@ -94,15 +94,15 @@ export default function AboutMe(props) {
                   a huge manufacturing company
                 </span>
                 ,<span className="text-AAsecondary"> a start-up</span>,{" "}
-                <span className="text-AAsecondary">
-                  export-import companies
-                </span>
                 , also
                 <span className="text-AAsecondary"> freelancing</span> and
                 Passion and enthusiasm of development, push me to levelup &
                 teach myself. <br className="md:block hidden" />
-                Experienced in Desktop & Web Development with blockchain
-                Development.
+                Experienced in{" "}
+                <span className="text-AAsecondary">
+                  Desktop & Web Development with blockchain
+                  Development
+                </span>.
               </span>
             </div>
 

@@ -116,7 +116,7 @@ const CompaniesBar = (props) => {
         <div className="flex flex-row md:flex-col">
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={0}
-            CompanyName="Mad DOg Car Club"
+            CompanyName="Mad Dog Car Club"
             BarPosition={34}
             BarAvobePosition={1}
             DescriptionJob="Mad Dog Car Club"
