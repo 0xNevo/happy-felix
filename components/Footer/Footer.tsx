@@ -11,7 +11,7 @@ const ClickableIcon = props => {
   );
 };
 const IconsData = [
-  { href: "https://github.com/NEVO-SAY-NEVO", Icon: GithubIcon },
+  { href: "https://github.com/comet19950902", Icon: GithubIcon },
   { href: "https://www.instagram.com/felix_martel/?hl=en", Icon: InstagramIcon },
   { href: "https://www.youtube.com/watch?v=-_Feao_GrS4", Icon: YoutubeIcon },
 ];

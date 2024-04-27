@@ -109,7 +109,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔English</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/dotbet-FE" />
+                <GithubIcon link="https://github.com/comet19950902/dotbet-FE" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://dotbet.io/"} router={router} />
                 </a>
@@ -199,7 +199,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/Coin-flip" />
+                <GithubIcon link="https://github.com/comet19950902/Coin-flip" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://https://flip.baby/"}
@@ -296,7 +296,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔JQuery</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/logarithm-games" />
+                <GithubIcon link="https://github.com/comet19950902/logarithm-games" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://logarithm-games.vercel.app/"}
@@ -387,7 +387,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Back-end</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/morts-front" />
+                <GithubIcon link="https://github.com/comet19950902/morts-front" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://morts.design/"} router={router} />
                 </a>
@@ -478,7 +478,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔English</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/Taxi-betting-game-frontendfbdfd" />
+                <GithubIcon link="https://github.com/comet19950902/Taxi-betting-game-frontendfbdfd" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://spwallet.tokery.io/"}
@@ -572,7 +572,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">TypeScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/Red-devil-FE-next-tailwind-" />
+                <GithubIcon link="https://github.com/comet19950902/Red-devil-FE-next-tailwind-" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.uzyth.com/"}
@@ -751,7 +751,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/NFT-mint" />
+                <GithubIcon link="https://github.com/comet19950902/NFT-mint" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://0xwlf.io/"} router={router} />
                 </a>
@@ -833,7 +833,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Firebase</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/Dating-ui" />
+                <GithubIcon link="https://github.com/comet19950902/Dating-ui" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://unjabbed.vercel.app/"}
@@ -1014,7 +1014,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">MySQL</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/difiaba" />
+                <GithubIcon link="https://github.com/comet19950902/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.difiaba.com/"}
@@ -1111,7 +1111,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/forevervoices" />
+                <GithubIcon link="https://github.com/comet19950902/forevervoices" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://forevervoices.com/"}
@@ -1193,7 +1193,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">API</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/ubervfx" />
+                <GithubIcon link="https://github.com/comet19950902/ubervfx" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.ubervfx.com/"}
@@ -1295,7 +1295,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/workplace-app" />
+                <GithubIcon link="https://github.com/comet19950902/workplace-app" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://meetevoko.com/products/workplace-app/"}
@@ -1377,7 +1377,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">JavaScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/difiaba" />
+                <GithubIcon link="https://github.com/comet19950902/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://wineeventsgreece.com/"}
@@ -1469,7 +1469,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/greubelforsey" />
+                <GithubIcon link="https://github.com/comet19950902/greubelforsey" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.greubelforsey.com/en"}
@@ -1551,7 +1551,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Solana</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/difiaba" />
+                <GithubIcon link="https://github.com/comet19950902/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://yologames.io/yolo/blast"}
@@ -1641,10 +1641,91 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">GSAP</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/NEVO-SAY-NEVO/greubelforsey" />
+                <GithubIcon link="https://github.com/comet19950902/greubelforsey" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://visitsugartown.com/"}
+                    router={router}
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+                {/* // ?  Project 13 */}
+                <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center "
+          >
+            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
+              <Link href={"https://ordtoolkit.app/"}>
+                <div
+                  className="absolute w-full h-full rounded bg-AAsecondary 
+           transition-opacity opacity-20 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </Link>
+              <Img
+                src={"/img/ordTool.png"}
+                alt={"Project Screen shot"}
+                className={`w-full rounded h-full `}
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
+            <div className="absolute w-full h-full bg-opacity-70 z-0 md:order-2">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
+                <Img
+                  src={"/img/ordTool.png"}
+                  alt={"Project Screen shot"}
+                  className={`w-full h-full`}
+                />
+              </div>
+            </div>
+
+            <div
+              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
+            col-span-8 flex flex-col items-start  space-y-3 md:order-1"
+            >
+              <div className="flex flex-col space-y-1  z-10">
+                <span className="text-AAsecondary text-base">
+                  Recent Project
+                </span>
+                <Link href={"https://ordtoolkit.app/"}>
+                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                    Ord Toolkit
+                  </span>
+                </Link>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
+                <p className="text-gray-300 md:text-gray-400 text-left ">
+                  Ord Toolkit is a comprehensive platform dedicated to everything related to {" "}
+                  <span className="text-AAsecondary"> ordinals, BRC-20, and Bitcoin </span>.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
+               text-sm font-Text2 md:justify-start"
+              >
+                <span className="pr-4 z-10">Ordinal</span>
+                <span className="pr-4 z-10">Golang</span>
+                <span className="pr-4 z-10">Nest.js</span>
+                <span className="pr-4 z-10">PostgreSQL</span>
+                <span className="pr-4 z-10">Node.js</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                <GithubIcon link="https://github.com/comet19950902/ordtoolkit" />
+                <a href="" target={"_blank"} rel="noreferrer">
+                  <ExternalLink
+                    url={"https://ordtoolkit.app/"}
                     router={router}
                   />
                 </a>

@@ -303,7 +303,7 @@ export default function Page() {
         <About />
       </div>
       <Footer
-        githubUrl="https://github.com/NEVO-SAY-NEVO"
+        githubUrl="https://github.com/comet19950902"
         hideSocialsInDesktop={false}
       />
     </>

@@ -259,7 +259,7 @@ export default function Home() {
               </div>
             </div>
           </main>
-          <Footer className="absolute bottom-0" link="https://github.com/NEVO-SAY-NEVO" />
+          <Footer className="absolute bottom-0" link="https://github.com/comet19950902" />
         </>
       )}
 
@@ -273,7 +273,7 @@ export default function Home() {
             statistics={statistics}
             timeToType={timeToType}
           />
-          <Footer className="pt-16" link="https://github.com/NEVO-SAY-NEVO" />
+          <Footer className="pt-16" link="https://github.com/comet19950902" />
         </>
       )}
     </div>
