@@ -33,7 +33,7 @@ export default function StoryMkrs() {
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
             Full-Stack Developer{" "}
-            <span className="text-AAsecondary">@  Resonac Hard Disk Pte Ltd</span>
+            <span className="text-AAsecondary">@  Red Doorz</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
