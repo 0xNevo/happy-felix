@@ -143,7 +143,7 @@ const CompaniesBar = (props) => {
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={3}
-            CompanyName="Resonac Pte Ltd"
+            CompanyName="Red Doorz"
             BarPosition={164}
             BarAvobePosition={385}
             DescriptionJob="Resonac Hard Disk Pte Ltd"
