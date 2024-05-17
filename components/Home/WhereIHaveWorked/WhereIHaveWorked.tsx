@@ -20,7 +20,7 @@ export default function WhereIHaveWorked() {
         return <ItechArt />;
       case "Bitfinex":
         return <TrustToken />;
-      case "Resonac Hard Disk Pte Ltd":
+      case "Red Doorz":
         return <StoryMkrs />;
     }
   };
@@ -146,7 +146,7 @@ const CompaniesBar = (props) => {
             CompanyName="Red Doorz"
             BarPosition={164}
             BarAvobePosition={385}
-            DescriptionJob="Resonac Hard Disk Pte Ltd"
+            DescriptionJob="Red Doorz"
             CompanyNameBackgroundColorGreen={[false, false, false, true, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
