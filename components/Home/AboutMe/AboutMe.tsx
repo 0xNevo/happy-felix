@@ -94,7 +94,7 @@ export default function AboutMe(props) {
                   a huge manufacturing company
                 </span>
                 ,<span className="text-AAsecondary"> a start-up</span>,{" "}
-                , also
+                 also
                 <span className="text-AAsecondary"> freelancing</span> and
                 Passion and enthusiasm of development, push me to levelup &
                 teach myself. <br className="md:block hidden" />
