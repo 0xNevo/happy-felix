@@ -120,7 +120,7 @@ const CompaniesBar = (props) => {
             ButtonOrderOfcompanyNameBackgroundColorGreen={0}
             CompanyName="Meta Tune Club"
             BarPosition={12}
-            BarAvobePosition={1}
+            BarAvobePosition={12}
             DescriptionJob="Meta Tune Club"
             CompanyNameBackgroundColorGreen={[true, false, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
