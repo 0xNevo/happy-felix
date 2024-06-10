@@ -178,7 +178,7 @@ export default function SomethingIveBuilt() {
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
                   I integrated a <span className="text-AAsecondary">Home Energy Calculator</span> to provide homeowners <br/>with an estimated cost of their HVAC usage.
                   <br />
-                  Utilized external APIs such as Wattbuy to retrieve historical energy rate data <br/>based on the homeowner's zip code.
+                  Utilized external APIs such as Wattbuy to retrieve historical energy rate data <br/>based on the homeowner&apos;s zip code.
                 </p>
               </div>
               <ul
