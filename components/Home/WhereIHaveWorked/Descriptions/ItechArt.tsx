@@ -34,7 +34,7 @@ export default function ItechArt() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Senior Full-Stack Web Developer <span className="text-AAsecondary">@ AutoScribe</span>
+            Senior Full Stack Web Developer <span className="text-AAsecondary">@ AutoScribe</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">

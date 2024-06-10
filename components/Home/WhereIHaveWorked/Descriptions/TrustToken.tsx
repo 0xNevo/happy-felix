@@ -5,7 +5,7 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function TrustToken() {
   const tasks = [
     {
-      text: "Bitfinex frees money to move to wherever it creates the most value - instantly. Borrow & Lend. Fully transparent uncollateralized lending, powered by TRU",
+      text: "Technorely Inc frees money to move to wherever it creates the most value - instantly. Borrow & Lend. Fully transparent uncollateralized lending, powered by TRU",
       keywords: ["Apache POI"],
     },
     {
@@ -32,7 +32,7 @@ export default function TrustToken() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Full-Stack Blockchain Developer{" "}
+            Full Stack Blockchain Developer{" "}
             <span className="text-AAsecondary">@ Bitfinex</span>
           </span>
           {/* Date */}

@@ -32,7 +32,7 @@ export default function StoryMkrs() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Full-Stack Developer{" "}
+            Full Stack Developer{" "}
             <span className="text-AAsecondary">@  Red Doorz</span>
           </span>
           {/* Date */}

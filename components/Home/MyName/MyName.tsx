@@ -60,9 +60,9 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-200 px-4 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
-        As a developer with 5 years of development experience, I possess many skills.
+        As a developer with 5 years of development experience, I possess certain skills.
         <br />
-        I am <span className="text-blue-500">full stack developer and web3 developer, web designer, blockchain developer</span>.
+        I am <span className="top-0 left-0 w-full  truncate bg-gradient-to-r from-[#1b8fab] via-[#43a047] to-[#3949ab] bg-clip-text text-[transparent] drop-shadow-[2px_2px_#fff] shadow-[#fff] font-semibold">Web3 Full Stack Developer and Web designer</span>.
       </motion.h3>
       <motion.div
         initial={{ y: 10, opacity: 0 }}

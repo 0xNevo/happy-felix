@@ -5,27 +5,31 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function Fantasia() {
   const tasks = [
     {
-      text: "Responsible for Windows Server 2008 r2 installs, configuration and support Active Directory, DNS, DHCP, WINS..",
-      keywords: ["Windows Server 2008"],
+      text: "Meta Tune Club is the First & Only Solana Based HVAC Service System",
+      keywords: ["Meta Tune Club"],
     },
     {
-      text: "Migration of Windows 2008 to Windows Server 2012 .",
-      keywords: ["Migration"],
+      text: "Used React / Next.js + Tailwind CSS for UI",
+      keywords: ["React / Next.js", "Tailwind CSS"],
     },
     {
-      text: "Responsible for Server full, differential and incremental backups using Veeam Endpoint Backup with SQL Server 2012.",
-      keywords: ["Veeam Endpoint Backup", "SQL Server 2012"],
+      text: "Implemented Mint of Home Profile NFT, Service Appointment NFT, Contractor Profile NFT, Messenger and Invoice NFT",
+      keywords: ["Home Profile", "Service Appointment", "Contractor Profile", "Messenger", "Invoice"],
     },
+    {
+      text: "Integrate a Home Energy Calculator to provide homeowners with an estimated cost of their HVAC usage",
+      keywords: ["Home Energy Calculator"],
+    }
   ];
   return (
     <div className="flex flex-col space-y-5 max-w-xl px-4 md:px-0">
       <div className="flex flex-col spacey-y-2">
         {/* Title */}
         <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-          Server Manager Assistant <span className="text-AAsecondary">@ Windows Server</span>
+          Solana Full Stack Developer <span className="text-AAsecondary">@ Meta Tune Club</span>
         </span>
         {/* Date */}
-        <span className="font-mono text-xs text-gray-500">June - July 2018</span>
+        <span className="font-mono text-xs text-gray-500">April 2024 - Current</span>
       </div>
       <div className="flex flex-col space-y-4 sm:text-sm text-xs">
       {tasks.map((item, index) => {

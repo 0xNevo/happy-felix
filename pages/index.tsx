@@ -58,7 +58,7 @@ export default function Home() {
   console.log("Portfolio Rendered...");
   const meta = {
     title: "Felix Martel ",
-    description: `I am a professional full-stack BlockChain and Web3 developer with over 5 years of development experience. If you are interested in developing these products, please contact me.`,
+    description: `I am a professional Web3 Full Stack Developer with over 5 years of development experience. If you are interested in developing these products, please contact me.`,
     image: "/ProfileLogo.png",
     type: "website",
   };

@@ -15,7 +15,7 @@ export default function AboutMe(props) {
       "Tailwind CSS",
       "Runes",
       "Python",
-      "Ordinal",
+      "Ordinals",
     ],
     [
       "Rust",
@@ -68,13 +68,13 @@ export default function AboutMe(props) {
                 Hello! My name is Felix Martel and I enjoy solving problems and
                 creating codes that live on the internet.
                 <br className="md:block hidden" />
-                As a{" "}
+                As an{" "}
                 <span className="text-AAsecondary">
-                  senior fullstack developer
+                  experienced Web3 Full Stack Developer
                 </span>,{" "}
-                I have full experience in building {" "}
+                I have certain knowledge and my own method not only in building {" "}
                 <span className="text-AAsecondary">
-                  BlockChain and Web apps, designs</span>.
+                  BlockChain and Web apps but also in Designs</span>.
               </span>
             </div>
             <div className="font-Header tracking-wide">
@@ -88,21 +88,17 @@ export default function AboutMe(props) {
               </span>
               <br className="md:block hidden" />
               <span className="text-gray-400  ">
-                Fast-forward to today, I&apos;ve had the privilege of working at
+                As of this time, I&apos;ve had the privilege of working at
                 <span className="text-AAsecondary">
                   {" "}
-                  a huge manufacturing company
+                  a HVAC company
                 </span>
                 ,<span className="text-AAsecondary"> a start-up</span>,{" "}
                  also
-                <span className="text-AAsecondary"> freelancing</span> and
-                Passion and enthusiasm of development, push me to levelup &
+                <span className="text-AAsecondary"> freelancing</span>.
+                <br className="md:block hidden" />
+                <span className="text-AAsecondary">Passion and Enthusiasm</span> push me to level-up &
                 teach myself. <br className="md:block hidden" />
-                Experienced in{" "}
-                <span className="text-AAsecondary">
-                  Desktop & Web Development with blockchain
-                  Development
-                </span>.
               </span>
             </div>
 
