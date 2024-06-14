@@ -18,8 +18,8 @@ export default function AnimationText() {
                     <span style={{ '--i': 8 }}>a</span>
                     <span style={{ '--i': 9 }}>r</span>
                     <span style={{ '--i': 10 }}>t</span>
-                    <span style={{ '--i': 11 }}>e</span>
-                    <span style={{ '--i': 12 }}>l</span>
+                    <span style={{ '--i': 11 }}>i</span>
+                    <span style={{ '--i': 12 }}>n</span>
                     <br />
                     <span className='text-2xl lg:text-6xl sm:text-4xl md:text-5xl' style={{ '--i': 13 }}>I</span>
                     <span className='text-2xl lg:text-6xl sm:text-4xl md:text-5xl' style={{ '--i': 14 }}>&nbsp;&nbsp;</span>
