@@ -33,7 +33,7 @@ export default function TrustToken() {
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
             Full Stack Blockchain Developer{" "}
-            <span className="text-AAsecondary">@ Bitfinex</span>
+            <span className="text-AAsecondary">@ Technorely Inc</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
