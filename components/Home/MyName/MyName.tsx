@@ -62,7 +62,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
       >
         As a developer with 5 years of development experience, I possess certain skills.
         <br />
-        I am <span className="top-0 left-0 w-full  truncate bg-gradient-to-r from-[#1b8fab] via-[#43a047] to-[#3949ab] bg-clip-text text-[transparent] drop-shadow-[2px_2px_#fff] shadow-[#fff] font-semibold">Web3 Full Stack Developer and Web designer</span>.
+        I am <span className="top-0 left-0 w-full font-semibold">Web3 Full Stack Developer and Web designer</span>.
       </motion.h3>
       <motion.div
         initial={{ y: 10, opacity: 0 }}

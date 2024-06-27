@@ -156,7 +156,7 @@ export default function AboutMe(props) {
             <div className="absolute w-5/6 h-5/6  rounded overflow-hidden">
               <div className="absolute w-full h-full group-hover:opacity-0 bg-AAsecondary opacity-10 duration-300 rounded overflow-hidden"></div>
               <Img
-                src={"/img/image.webp"}
+                src={"/img/nevo.png"}
                 className={"rounded-lg w-full h-full"}
                 alt="My Image Not Found"
               />
@@ -167,7 +167,7 @@ export default function AboutMe(props) {
             <div className="absolute w-48 h-full  rounded  translate-x-5 translate-y-5 border-2 border-AAsecondary"></div>
             <div className="absolute w-48 h-full rounded overflow-hidden">
               <Img
-                src={"/img/image.webp"}
+                src={"/img/nevo.png"}
                 className={"rounded-lg w-full h-full"}
                 alt="My Image Not Found"
               />
