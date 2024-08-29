@@ -107,7 +107,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔Solana</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/energy-colletion" />
+                <GithubIcon link="https://github.com/0xNevo/energy-colletion" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://www.3nergywhiz.com/"} router={router} />
                 </a>
@@ -192,7 +192,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/energy-collection" />
+                <GithubIcon link="https://github.com/0xNevo/energy-collection" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://calculator.3nergywhiz.com/"}
@@ -276,7 +276,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔Azure</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/shadow-seller" />
+                <GithubIcon link="https://github.com/0xNevo/shadow-seller" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://www.shadowsellerai.com/"} router={router} />
                 </a>
@@ -362,7 +362,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔Express.js</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/pump.fun-Smart-Contract/" />
+                <GithubIcon link="https://github.com/0xNevo/pump.fun-Smart-Contract/" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://pump.m8s.tech/"}
@@ -384,14 +384,14 @@ export default function SomethingIveBuilt() {
           absolute md:grid grid-cols-12 w-full h-full  content-center "
           >
             <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
-              <a href={"https://dotbet.com/"} target="_blank" rel="noreferrer">
+              <a href={"https://www.crypto-pills.com/"} target="_blank" rel="noreferrer">
                 <div
                   className="absolute w-full h-full rounded bg-AAprimary 
            transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
                 ></div>
               </a>
               <Img
-                src={"/img/dotbet.png"}
+                src={"/img/crypto_pill.png"}
                 alt={"Project Screen shot"}
                 className={`w-full rounded h-full `}
               />
@@ -406,7 +406,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
                 <Img
-                  src={"/img/dotbet.png"}
+                  src={"/img/crypto_pill.png"}
                   alt={"Project Screen shot"}
                   className={`w-full h-full`}
                 />
@@ -419,22 +419,20 @@ export default function SomethingIveBuilt() {
             >
               <div className="flex flex-col space-y-1  z-10">
                 <span className="text-AAsecondary text-base">
-                  Betting Hub
+                  Virtual Medicine for a Sick Society
                 </span>
-                <Link href={"https://dotbet.io/"}>
+                <Link href={"https://www.crypto-pills.com/"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    DotBet
+                    Crypto Pills
                   </span>
                 </Link>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                  This site is a site that{" "}
-                  <span className="text-AAsecondary">connects game sites</span>{" "}
-                  and is an intermediary site that shows and allows users to use
-                  many game servers. I added{" "}
-                  <span className="text-AAsecondary">AWC games</span> here and
-                  made them available.
+                  Crypto Pills are{" "}
+                  <span className="text-AAsecondary">a limited NFT collection</span>{" "}
+                  All 10,000 Crypto Pills are algorithmically generated from 37 categories and 504 traits, allowing some to be rarer than others.{" "}
+                  All <span className="text-AAsecondary">Crypto Pills vector artwork</span> is rendered in glorious <span className="text-AAsecondary">3,000 pixels</span> resolution.
                 </p>
               </div>
               <ul
@@ -443,14 +441,14 @@ export default function SomethingIveBuilt() {
               >
                 <span className="pr-4 z-10">✔React.js</span>
                 <span className="pr-4 z-10">✔Node.js</span>
-                <span className="pr-4 z-10">✔JavaScript</span>
+                <span className="pr-4 z-10">✔TypeScript</span>
                 <span className="pr-4 z-10">✔Tailwind CSS</span>
-                <span className="pr-4 z-10">✔English</span>
+                <span className="pr-4 z-10">✔Ether</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/dotbet-FE" />
+                <GithubIcon link="https://github.com/0xNevo/crypto_pills" />
                 <a href="" target={"_blank"} rel="noreferrer">
-                  <ExternalLink url={"https://dotbet.io/"} router={router} />
+                  <ExternalLink url={"https://www.crypto-pills.com/"} router={router} />
                 </a>
               </div>
             </div>
@@ -538,7 +536,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/Coin-flip" />
+                <GithubIcon link="https://github.com/0xNevo/Coin-flip" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://https://flip.baby/"}
@@ -635,7 +633,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔JQuery</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/logarithm-games" />
+                <GithubIcon link="https://github.com/0xNevo/logarithm-games" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://logarithm-games.vercel.app/"}
@@ -722,7 +720,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Express.js</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/mugs-marketplace" />
+                <GithubIcon link="https://github.com/0xNevo/mugs-marketplace" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://mugs-marketplace.vercel.app/"} router={router} />
                 </a>
@@ -813,7 +811,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">✔English</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/Taxi-betting-game-frontendfbdfd" />
+                <GithubIcon link="https://github.com/0xNevo/Taxi-betting-game-frontendfbdfd" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://spwallet.tokery.io/"}
@@ -907,7 +905,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">TypeScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/Red-devil-FE-next-tailwind-" />
+                <GithubIcon link="https://github.com/0xNevo/Red-devil-FE-next-tailwind-" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.uzyth.com/"}
@@ -1086,7 +1084,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/comet19950902/NFT-mint" />
+                <GithubIcon link="https://github.com/0xNevo/NFT-mint" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={"https://0xwlf.io/"} router={router} />
                 </a>
@@ -1168,7 +1166,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Firebase</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/Dating-ui" />
+                <GithubIcon link="https://github.com/0xNevo/Dating-ui" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://unjabbed.vercel.app/"}
@@ -1349,7 +1347,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">MySQL</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/difiaba" />
+                <GithubIcon link="https://github.com/0xNevo/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.difiaba.com/"}
@@ -1446,7 +1444,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/comet19950902/forevervoices" />
+                <GithubIcon link="https://github.com/0xNevo/forevervoices" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://forevervoices.com/"}
@@ -1528,7 +1526,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">API</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/ubervfx" />
+                <GithubIcon link="https://github.com/0xNevo/ubervfx" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.ubervfx.com/"}
@@ -1630,7 +1628,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/comet19950902/workplace-app" />
+                <GithubIcon link="https://github.com/0xNevo/workplace-app" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://meetevoko.com/products/workplace-app/"}
@@ -1712,7 +1710,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">JavaScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/difiaba" />
+                <GithubIcon link="https://github.com/0xNevo/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://wineeventsgreece.com/"}
@@ -1804,7 +1802,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Tailwind CSS</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/comet19950902/greubelforsey" />
+                <GithubIcon link="https://github.com/0xNevo/greubelforsey" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://www.greubelforsey.com/en"}
@@ -1886,7 +1884,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Solana</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/difiaba" />
+                <GithubIcon link="https://github.com/0xNevo/difiaba" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://yologames.io/yolo/blast"}
@@ -1976,7 +1974,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">GSAP</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/comet19950902/greubelforsey" />
+                <GithubIcon link="https://github.com/0xNevo/greubelforsey" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://visitsugartown.com/"}
@@ -2057,7 +2055,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Node.js</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/comet19950902/ordtoolkit" />
+                <GithubIcon link="https://github.com/0xNevo/ordtoolkit" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
                     url={"https://ordtoolkit.app/"}
