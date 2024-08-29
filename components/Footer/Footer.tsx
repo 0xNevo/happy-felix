@@ -12,7 +12,7 @@ const ClickableIcon = props => {
 };
 const IconsData = [
   { href: "https://github.com/comet19950902", Icon: GithubIcon },
-  { href: "https://www.instagram.com/felix_martin/?hl=en", Icon: InstagramIcon },
+  { href: "https://www.instagram.com/felix_martel/?hl=en", Icon: InstagramIcon },
   { href: "https://www.youtube.com/watch?v=-_Feao_GrS4", Icon: YoutubeIcon },
 ];
 
@@ -43,7 +43,7 @@ export default function Fotter(props: {
     text-sm  space-y-2  "
         >
           <span className="group-hover:text-AAsecondary sm:text-sm text-xs">
-            Designed & Built by Felix Martin
+            Designed & Built by Felix Martel
           </span>
 
           <span className="text-xs flex flex-row items-center space-x-2 group-hover:text-AAsecondary">

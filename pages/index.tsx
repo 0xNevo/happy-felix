@@ -57,7 +57,7 @@ export default function Home() {
 
   console.log("Portfolio Rendered...");
   const meta = {
-    title: "Felix Martin ",
+    title: "Felix Martel ",
     description: `I am a professional Web3 Full Stack Developer with over 5 years of development experience. If you are interested in developing these products, please contact me.`,
     image: "/ProfileLogo.png",
     type: "website",
@@ -72,7 +72,7 @@ export default function Home() {
         <meta property="og:url" content={`https://anaflous.com`} />
         <link rel="canonical" href={`https://anaflous.com`} />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Felix Martin" />
+        <meta property="og:site_name" content="Felix Martel" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />

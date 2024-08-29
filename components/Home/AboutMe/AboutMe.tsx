@@ -65,7 +65,7 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header ">
               <span className="text-gray-400  tracking-wide">
-                Hello! My name is Felix Martin and I enjoy solving problems and
+                Hello! My name is Felix Martel and I enjoy solving problems and
                 creating codes that live on the internet.
                 <br className="md:block hidden" />
                 As an{" "}
