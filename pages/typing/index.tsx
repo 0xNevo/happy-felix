@@ -259,7 +259,7 @@ export default function Home() {
               </div>
             </div>
           </main>
-          <Footer className="absolute bottom-0" link="https://github.com/comet19950902" />
+          <Footer className="absolute bottom-0" link="https://github.com/0xNevo" />
         </>
       )}
 
@@ -273,7 +273,7 @@ export default function Home() {
             statistics={statistics}
             timeToType={timeToType}
           />
-          <Footer className="pt-16" link="https://github.com/comet19950902" />
+          <Footer className="pt-16" link="https://github.com/0xNevo" />
         </>
       )}
     </div>
