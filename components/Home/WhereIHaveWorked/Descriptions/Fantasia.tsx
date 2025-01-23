@@ -13,7 +13,7 @@ export default function Fantasia() {
       keywords: ["React / Next.js", "Tailwind CSS"],
     },
     {
-      text: "Implemented Mint of Home Profile NFT, Service Appointment NFT, Contractor Profile NFT, Messenger and Invoice NFT",
+      text: "Implemented Mint of Home Profile NFT, Service Appointment NFT, Contractor Profile NFT, Messenger NFT",
       keywords: ["Home Profile", "Service Appointment", "Contractor Profile", "Messenger", "Invoice"],
     },
     {
