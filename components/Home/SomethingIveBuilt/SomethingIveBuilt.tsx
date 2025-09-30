@@ -34,6 +34,85 @@ export default function SomethingIveBuilt() {
       </div>
 
       <div className="flex flex-col space-y-8 md:space-y-28">
+        {/* // ?  Project PuffDog */}
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center "
+          >
+            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
+              <a href={"https://puffdognft.vercel.app/"} target="_blank" rel="noreferrer">
+                <div
+                  className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </a>
+              <Img
+                src={"/img/puffDog.PNG"}
+                alt={"Project Screen shot"}
+                className={`w-full rounded h-full `}
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
+            {/* background for text in mobile responsive */}
+            <div className="absolute w-full h-full bg-opacity-70 z-0 md:order-2">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
+                <Img
+                  src={"/img/puffDog.PNG"}
+                  alt={"Project Screen shot"}
+                  className={`w-full h-full`}
+                />
+              </div>
+            </div>
+
+            <div
+              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
+            col-span-8 flex flex-col items-start  space-y-3 md:order-1"
+            >
+              <div className="flex flex-col space-y-1  z-10">
+                <span className="text-AAsecondary text-base">
+                  Puff DAO
+                </span>
+                <Link href={"https://puffdognft.vercel.app/"}>
+                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                    Puff Dog NFT Collection
+                  </span>
+                </Link>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
+                <p className="text-gray-300 md:text-gray-400 text-left ">
+                  <span className="text-AAsecondary">PUFF DOG</span> is a meme-driven cryptocurrency built on the Solana blockchain, integrating NFTs and gaming to create an engaging ecosystem for the <span className="text-AAsecondary">PUFF community</span>..
+                  <br />
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
+               text-sm font-Text2 md:justify-start"
+              >
+                <span className="pr-4 z-10">✔Next.js</span>
+                <span className="pr-4 z-10">✔Node.js</span>
+                <span className="pr-4 z-10">✔TypeScript</span>
+                <span className="pr-4 z-10">✔Tailwind CSS</span>
+                <span className="pr-4 z-10">✔Solana</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                <GithubIcon link="https://github.com/0xNevo/puffDogDAO" />
+
+                  <ExternalLink url={"https://puffdognft.vercel.app/"} router={router} />
+
+              </div>
+            </div>
+          </div>
+        </div>
         {/* // ?  Project  TrAIder*/}
         <div
           data-aos="fade-up"
@@ -95,7 +174,7 @@ export default function SomethingIveBuilt() {
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                <span className="text-AAsecondary">TrAIder</span> leverages AI for smarter trading on Solana. <br />Currently supporting <span className="text-AAsecondary">Raydium</span> & <span className="text-AAsecondary">Pump.fun</span>, <br />with upcoming AI-driven trading assistants, copy trading,<br /> sniping tools, and portfolio management.
+                  <span className="text-AAsecondary">TrAIder</span> leverages AI for smarter trading on Solana. <br />Currently supporting <span className="text-AAsecondary">Raydium</span> & <span className="text-AAsecondary">Pump.fun</span>, <br />with upcoming AI-driven trading assistants, copy trading,<br /> sniping tools, and portfolio management.
                   <br />
                   Utilized web scraping of Bullx for real-time data fetch from <span className="text-AAsecondary">Bullx</span>.
                 </p>
@@ -214,7 +293,7 @@ export default function SomethingIveBuilt() {
           >
             <div className="relative rounded w-full h-full col-span-7 ">
               <a
-                href={"https://calculator.3nergywhiz.com/"}
+                href={"https://www.3nergywhiz.com/calculator/"}
                 target="_blank"
                 rel="noreferrer"
               >
@@ -255,7 +334,7 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">
                   Energy Consume Calculator
                 </span>
-                <Link href={"https://calculator.3nergywhiz.com/"}>
+                <Link href={"https://www.3nergywhiz.com/calculator/"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     3nergyWhiz Calculator
                   </span>
@@ -282,7 +361,7 @@ export default function SomethingIveBuilt() {
                 <GithubIcon link="https://github.com/0xNevo/energy-collection" />
                 <a href="" target={"_blank"} rel="noreferrer">
                   <ExternalLink
-                    url={"https://calculator.3nergywhiz.com/"}
+                    url={"https://www.3nergywhiz.com/calculator/"}
                     router={router}
                   />
                 </a>
