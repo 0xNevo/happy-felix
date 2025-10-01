@@ -52,7 +52,7 @@ export default function SomethingIveBuilt() {
                 ></div>
               </a>
               <Img
-                src={"/img/puffDog.PNG"}
+                src={"/img/puffDog.png"}
                 alt={"Project Screen shot"}
                 className={`w-full rounded h-full `}
               />
@@ -67,7 +67,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
                 <Img
-                  src={"/img/puffDog.PNG"}
+                  src={"/img/puffDog.png"}
                   alt={"Project Screen shot"}
                   className={`w-full h-full`}
                 />
