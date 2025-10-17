@@ -4,7 +4,7 @@ import GithubIcon from "../../Icons/GithubIcon";
 import LinkedinIcon from "../../Icons/LinkedinIcon";
 import InstagramIcon from "../../Icons/InstagramIcon";
 import YoutubeIcon from "../../Icons/YoutubeIcon";
-import DiscordIcon from "../../Icons/DiscordIcon";
+// import DiscordIcon from "../../Icons/DiscordIcon";
 import TelegramIcon from "../../Icons/TelegramIcon";
 const IconClickableWithAnimation = (props) => {
   return (
@@ -49,11 +49,11 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             {/* Linkedin icon */}
             {/* <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/albert-eng-b85671294"} /> */}
             {/* Youtube Icon */}
-            <IconClickableWithAnimation
+            {/* <IconClickableWithAnimation
               Icon={DiscordIcon}
               href={"https://discordapp.com/users/1074915427936915458"}
-            />
-            <IconClickableWithAnimation Icon={TelegramIcon} href={"https://t.me/NevoSayNevo"} />
+            /> */}
+            <IconClickableWithAnimation Icon={TelegramIcon} href={"https://t.me/Nev0SayNev0"} />
           </div>
           <div className="h-32 w-0.5 bg-gray-400"></div>
         </div>
