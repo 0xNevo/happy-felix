@@ -34,6 +34,169 @@ export default function SomethingIveBuilt() {
       </div>
 
       <div className="flex flex-col space-y-8 md:space-y-28">
+        {/* // ?  Project P2 */}
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center "
+          >
+            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
+              <a href={"https://www.predictiveperpetuals.com/"} target="_blank" rel="noreferrer">
+                <div
+                  className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </a>
+              <Img
+                src={"/img/p2.png"}
+                alt={"Project Screen shot"}
+                className={`w-full rounded h-full `}
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
+            {/* background for text in mobile responsive */}
+            <div className="absolute w-full h-full bg-opacity-70 z-0 md:order-2">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
+                <Img
+                  src={"/img/p2.png"}
+                  alt={"Project Screen shot"}
+                  className={`w-full h-full`}
+                />
+              </div>
+            </div>
+
+            <div
+              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
+            col-span-8 flex flex-col items-start  space-y-3 md:order-1"
+            >
+              <div className="flex flex-col space-y-1  z-10">
+                <span className="text-AAsecondary text-base">
+                  Predictive Perpetuals
+                </span>
+                <Link href={"https://www.predictiveperpetuals.com/"}>
+                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                    P² Market – Predictive Perpetuals
+                  </span>
+                </Link>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
+                <p className="text-gray-300 md:text-gray-400 text-left ">
+                  <span className="text-AAsecondary">P² Market</span> introduces the first <span className="text-AAsecondary">AI-powered perpetual prediction market</span>, enabling users to <span className="text-AAsecondary">trade the probability</span> of real-world events — from elections to sports and culture — with leverage and dynamic funding rates.
+                  <br />
+                  Unlike traditional betting, <span className="text-AAsecondary">P²</span> allows you to speculate on the market’s collective belief, powered by an <span className="text-AAsecondary">AI-driven risk engine</span> and <span className="text-AAsecondary">verified on-chain oracles</span>. Experience a new dimension of probability trading where <span className="text-AAsecondary">every position reflects market consensus</span> and <span className="text-AAsecondary">real-time risk dynamics</span>.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
+               text-sm font-Text2 md:justify-start"
+              >
+                <span className="pr-4 z-10">✔WebSocket Server</span>
+                <span className="pr-4 z-10">✔PostgreSQL</span>
+                <span className="pr-4 z-10">✔Redis</span>
+                <span className="pr-4 z-10">✔Vyper</span>
+                <span className="pr-4 z-10">✔Docker</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                <ExternalLink url={"https://www.predictiveperpetuals.com/"} router={router} />
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* // ?  Project  Demo P2*/}
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96 "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center"
+          >
+            <div className="relative rounded w-full h-full col-span-7 ">
+              <a
+                href={"https://demo.predictiveperpetuals.com/"}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <div
+                  className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
+                ></div>
+              </a>
+
+              <Img
+                src={"/img/demo_p2.png"}
+                alt={"Project Screen shot"}
+                className={`w-full rounded h-full `}
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
+            {/* background for text in mobile responsive */}
+            <div className="absolute w-full h-full bg-opacity-70 z-0">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
+                <Img
+                  src={"/img/demo_p2.png"}
+                  alt={"Project Screen shot"}
+                  className={`w-full h-full `}
+                />
+              </div>
+            </div>
+
+            <div
+              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6 xl:col-start-7 col-start-5 
+            col-span-8 flex flex-col items-start md:items-end space-y-3"
+            >
+              <div className="flex flex-col space-y-1 md:items-end z-10">
+                <span className="text-AAsecondary text-base">
+                  P² Demo
+                </span>
+                <Link href={"https://demo.predictiveperpetuals.com/"}>
+                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                    P²: Predictive Perpetuals Demo
+                  </span>
+                </Link>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
+                  Explore how <span className="text-AAsecondary">P²</span> transforms traditional prediction markets into perpetual, AI-driven probability trading. This interactive demo allows users to trade market probabilities with virtual leverage in <span className="text-AAsecondary">real-time</span> — <span className="text-AAsecondary">no wallet connection or deposits required</span>.<br />
+                  Each user starts with <span className="text-AAsecondary">10 Virtual BNB</span> to experiment freely, simulating trades across <span className="text-AAsecondary">multiple markets simultaneously</span>. Monitor your PnL in real-time and experience the mechanics of predictive perpetuals in a <span className="text-AAsecondary">safe, educational environment</span>.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
+               text-sm font-Text2 md:justify-end"
+              >
+                <span className="pr-4 z-10">Perpetual Trading</span>
+                <span className="pr-4 z-10">Prediction Market</span>
+                <span className="pr-4 z-10">Oracle</span>
+                <span className="pr-4 z-10">AMM</span>
+              </ul>
+              <div className="z-10 flex fle-row space-x-5 ">
+                {/* <GithubIcon className="cursor-not-allowed" link="" /> */}
+                <a href="" target={"_blank"} rel="noreferrer">
+                  <ExternalLink
+                    url={"https://demo.predictiveperpetuals.com/"}
+                    router={router}
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* // ?  Project PuffDog */}
         <div
           data-aos="fade-up"
@@ -107,7 +270,7 @@ export default function SomethingIveBuilt() {
               <div className="z-10 flex fle-row space-x-5 ">
                 <GithubIcon link="https://github.com/0xNevo/puffDogDAO" />
 
-                  <ExternalLink url={"https://puffdognft.vercel.app/"} router={router} />
+                <ExternalLink url={"https://puffdognft.vercel.app/"} router={router} />
 
               </div>
             </div>
