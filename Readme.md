@@ -1,20 +1,10 @@
-<div align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/62770500/199333052-3cd38b31-7e77-4883-a1ff-a037afcc0492.png" width="100" />
-</div>
 <h1 align="center">
-  anaflous.com - v1
+  felixmartel.info - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://felixmartel.info" target="_blank">felixmartel.info</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
-<p align="center">
-  <a href="https://my-website-ten-sage.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DataDog/integrations-extras/master/vercel/images/logo-full-black.png" width="100" alt="Vercel Status" />
-  </a>
-</p>
-
-![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e55555579.png)
 ---
 ## 🚨 About this repo (please read!)
 
@@ -61,7 +51,7 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [felixmartel.info](https://felixmartel.info). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -193,7 +183,7 @@ the following endpoint will return a json object contains "quote" and "author", 
 
 MIT License
 
-Copyright (c) [2022] [Abdellatif Anaflous]
+Copyright (c) [2022] [Felix Martel]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -219,8 +209,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/abdellatif-anaflous/)
-- Website - [Abdellatif Anaflous](https://anaflous.com)
+- X - [@NevoSayNevo](https://x.com/NevoSayNevo)
+- Website - [Felix Martel](https://felixmartel.info)
 
 [Back To The Top](#description) :
 
