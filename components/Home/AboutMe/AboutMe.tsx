@@ -79,7 +79,7 @@ export default function AboutMe(props) {
             </div>
             <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
-                For 5 years of experience about fullstack development, could
+                For 6 years of experience about fullstack development, could
                 provide excellent{" "}
                 <span className="text-AAsecondary">programming skills,</span>{" "}
                 effective{" "}
