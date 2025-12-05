@@ -34,6 +34,76 @@ export default function SomethingIveBuilt() {
       </div>
 
       <div className="flex flex-col space-y-8 md:space-y-28">
+        {/* // ?  Project  X Monitoring Token Auto Launcher*/}
+        <div
+          data-aos="fade-up"
+          className="relative md:grid md:grid-cols-12 w-full md:h-96 "
+        >
+          {/* Left image */}
+          <div
+            className="hidden bg-AAprimary z-10  py-4 
+          absolute md:grid grid-cols-12 w-full h-full  content-center"
+          >
+            <div className="relative rounded w-full h-full col-span-7 ">
+              <div
+                className="absolute w-full h-full rounded bg-AAprimary 
+           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
+              ></div>
+
+              <Img
+                src={"/img/x_autoLauncher.jpg"}
+                alt={"Project Screen shot"}
+                className={`w-full rounded h-full `}
+              />
+            </div>
+          </div>
+
+          {/* right Content */}
+          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
+            {/* background for text in mobile responsive */}
+            <div className="absolute w-full h-full bg-opacity-70 z-0">
+              <div className="relative w-full h-full">
+                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
+                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
+                <Img
+                  src={"/img/x_autoLauncher.jpg"}
+                  alt={"Project Screen shot"}
+                  className={`w-full h-full `}
+                />
+              </div>
+            </div>
+
+            <div
+              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6 xl:col-start-7 col-start-5 
+            col-span-8 flex flex-col items-start md:items-end space-y-3"
+            >
+              <div className="flex flex-col space-y-1 md:items-end z-10">
+                <span className="text-AAsecondary text-base">
+                  Tweet-to-Token Bot
+                </span>
+                <Link href={"https://demo.predictiveperpetuals.com/"}>
+                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
+                    Token Auto Launcher based on X Tweets Monitor
+                  </span>
+                </Link>
+              </div>
+              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
+                  An automated sniper tool that monitors a <span className="text-AAsecondary">curated list of X accounts</span>.<br /> Instantly filters new posts using <span className="text-AAsecondary">keyword + AI semantic rules</span> <br />(e.g. crypto-related, high-meme potential). <br />When a tweet passes the filter, it <span className="text-AAsecondary">notifies the user</span> and <span className="text-AAsecondary">auto-deploys a Solana token</span> in seconds: ticker/name/description parsed by <span className="text-AAsecondary">LLM</span> from the tweet, attached image used as logo (or AI-generated if none). <span className="text-AAsecondary">Zero-latency meme coin launcher</span> straight from <span className="text-AAsecondary">viral tweets </span>&nbsp;to on-chain.
+                </p>
+              </div>
+              <ul
+                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
+               text-sm font-Text2 md:justify-end"
+              >
+                <span className="pr-4 z-10">Browser Extension</span>
+                <span className="pr-4 z-10">Tweet Monitoring</span>
+                <span className="pr-4 z-10">Pumpfun Token Launcher</span>
+                <span className="pr-4 z-10">LLM</span>
+              </ul>
+            </div>
+          </div>
+        </div>
         {/* // ?  Project P2 */}
         <div
           data-aos="fade-up"
