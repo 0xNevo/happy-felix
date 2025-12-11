@@ -60,7 +60,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-200 px-4 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
-        As a developer with 5 years of development experience, I possess certain skills.
+        As a developer with 6 years of development experience, I possess certain skills.
         <br />
         I am <span className="top-0 left-0 w-full font-semibold">Web3 Full Stack Developer and Web designer</span>.
       </motion.h3>
