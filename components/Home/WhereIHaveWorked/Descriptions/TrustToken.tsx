@@ -6,24 +6,24 @@ export default function TrustToken() {
   const tasks = [
     {
       text: "Technorely Inc frees money to move to wherever it creates the most value - instantly. Borrow & Lend. Fully transparent uncollateralized lending, powered by TRU",
-      keywords: ["Apache POI"],
+      keywords: ["Technorely Inc", "TRU", "Borrow", "Lend", "Fully transparent uncollateralized lending"],
     },
     {
       text: "Have developed Ethereum Energy contract and Frontend-with react, web3, ether.js",
-      keywords: ["scripts"],
+      keywords: ["Ethereum Energy contract", "react", "web3", "ether.js"],
     },
 
     {
-      text: "Designed, single-handedly, UX/UI for end-to-end wastemanagement logistics platform, namely the work ordercollection, managing resources (drivers/vehicles), work ordertimeline planning, live dispatch management, close shift andreporting",
-      keywords: ["Figma"],
+      text: "Designed, single-handedly, UX/UI for end-to-end waste management logistics platform, namely the work order collection, managing resources (drivers/vehicles), work order timeline planning, live dispatch management, close shift and reporting",
+      keywords: ["end-to-end waste management logistics platform", "work order collection", "resource management", "work order timeline planning", "live dispatch management", "close shift and reporting"],
     },
     {
       text: "Developed Smart Contract with solidity and Defi",
-      keywords: ["non-developers"],
+      keywords: ["Solidity", "Defi"],
     },
     {
       text: "Introduce the embedded signature wallet on existing system",
-      keywords: ["non-developers"],
+      keywords: ["embedded signature wallet"],
     },
   ];
   return (

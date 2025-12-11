@@ -7,6 +7,7 @@ import TrustToken from "./Descriptions/TrustToken";
 import AdvancedAgroManagement from "./Descriptions/AdvancedAgroManagement";
 import Meta from "./Descriptions/Fantasia";
 import StoryMkrs from "./Descriptions/StoryMkrs";
+import EnigmaValidator from "./Descriptions/EnigmaValidator";
 // import ItechArt from "./Descriptions/iTechArt";
 export default function WhereIHaveWorked() {
   const barRef = React.useRef<HTMLDivElement>(null);
@@ -14,6 +15,8 @@ export default function WhereIHaveWorked() {
   // ? INFORMATIONAL the default value of barRef's class should be at the beginning translate-y-[0px]
   const GetDescription = () => {
     switch (DescriptionJob) {
+      case "Enigma Validator":
+        return <EnigmaValidator />
       case "Meta Tune Club":
         return <Meta />
       case "Mad Dog Car Club":
@@ -26,7 +29,7 @@ export default function WhereIHaveWorked() {
         return <StoryMkrs />;
     }
   };
-  const [DescriptionJob, setDescriptionJob] = React.useState("Meta Tune Club");
+  const [DescriptionJob, setDescriptionJob] = React.useState("Enigma Validator");
   return (
     <div
       data-aos="fade-up"
@@ -118,47 +121,56 @@ const CompaniesBar = (props) => {
         <div className="flex flex-row md:flex-col">
         <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={0}
-            CompanyName="Meta Tune Club"
-            BarPosition={12}
-            BarAvobePosition={12}
-            DescriptionJob="Meta Tune Club"
-            CompanyNameBackgroundColorGreen={[true, false, false, false, false]}
+            CompanyName="Enigma Validator"
+            BarPosition={-10}
+            BarAvobePosition={1}
+            DescriptionJob="Enigma Validator"
+            CompanyNameBackgroundColorGreen={[true, false, false, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
-          <CompanyButton
+        <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={1}
-            CompanyName="Mad Dog Car Club"
-            BarPosition={56}
-            BarAvobePosition={129}
-            DescriptionJob="Mad Dog Car Club"
-            CompanyNameBackgroundColorGreen={[false, true, false, false, false]}
+            CompanyName="Meta Tune Club"
+            BarPosition={34}
+            BarAvobePosition={126}
+            DescriptionJob="Meta Tune Club"
+            CompanyNameBackgroundColorGreen={[false, true, false, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={2}
-            CompanyName="AutoScribe"
-            BarPosition={100}
-            BarAvobePosition={257}
-            DescriptionJob="AutoScribe"
-            CompanyNameBackgroundColorGreen={[false, false, true, false, false]}
+            CompanyName="Mad Dog Car Club"
+            BarPosition={78}
+            BarAvobePosition={256}
+            DescriptionJob="Mad Dog Car Club"
+            CompanyNameBackgroundColorGreen={[false, false, true, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={3}
-            CompanyName="Technorely Inc"
-            BarPosition={142}
-            BarAvobePosition={385}
-            DescriptionJob="Technorely Inc"
-            CompanyNameBackgroundColorGreen={[false, false, false, true, false]}
+            CompanyName="AutoScribe"
+            BarPosition={122}
+            BarAvobePosition={257}
+            DescriptionJob="AutoScribe"
+            CompanyNameBackgroundColorGreen={[false, false, false, true, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={4}
+            CompanyName="Technorely Inc"
+            BarPosition={164}
+            BarAvobePosition={385}
+            DescriptionJob="Technorely Inc"
+            CompanyNameBackgroundColorGreen={[false, false, false, false, true, false]}
+            setDescriptionJob={props.setDescriptionJob}
+          />
+          <CompanyButton
+            ButtonOrderOfcompanyNameBackgroundColorGreen={5}
             CompanyName="Red Doorz"
-            BarPosition={186}
+            BarPosition={208}
             BarAvobePosition={513}
             DescriptionJob="Red Doorz"
-            CompanyNameBackgroundColorGreen={[false, false, false, false, true]}
+            CompanyNameBackgroundColorGreen={[false, false, false, false, false, true]}
             setDescriptionJob={props.setDescriptionJob}
           />
         </div>

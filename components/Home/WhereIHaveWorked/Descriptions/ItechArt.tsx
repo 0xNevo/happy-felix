@@ -5,27 +5,27 @@ export default function ItechArt() {
   const tasks = [
     {
       text: "AutoScribe is a top-tier, one-stop custom software development company with a talent pool of 3500֡ experienced engineers. It help VC-backed startups and fast-growing tech companies build successful, scalable products that users love",
-      keywords: ["About Company"],
+      keywords: ["AutoScribe", "Software Development", "Engineering"],
     },
     {
       text: "Implemented a taxonomy types for risk controls",
-      keywords: ["VivaTech2022 event"],
+      keywords: ["taxonomy types", "risk controls"],
     },
     {
       text: "Improved access control system",
-      keywords: ["blockchain & Smart Contracts"],
+      keywords: ["access control system"],
     },
     {
       text: "Developed features related with risks and risk controls",
-      keywords: ["blockchain & Smart Contracts"],
+      keywords: ["risks", "risk controls"],
     },
     {
       text: "Data migrations, data model tranformations",
-      keywords: ["blockchain & Smart Contracts"],
+      keywords: ["Data migrations", "data model tranformations"],
     },
     {
       text: "Cover logic changes and migrations with tests",
-      keywords: ["blockchain & Smart Contracts"],
+      keywords: ["cover logic changes", "migrations"],
     },
   ];
   return (
