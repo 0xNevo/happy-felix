@@ -6,23 +6,23 @@ export default function StoryMkrs() {
   const tasks = [
     {
       text: "Developed CMS and E-commerce platforms with PHP and JavaScript.",
-      keywords: ["ReactJS", "TailwindCSS v1", "TypeScript"],
+      keywords: ["CMS", "E-commerce", "PHP", "JavaScript"],
     },
     {
       text: "Developed an ecommerce analytics application using React, Laravel, and MySQL.",
-      keywords: ["Next.js"],
+      keywords: ["ecommerce analytics", "React", "Laravel", "MySQL"],
     },
     {
       text: "Had some experience in chrome extension development.",
-      keywords: [],
+      keywords: ["chrome extension development"],
     },
     {
       text: "Facilitated maintenance and development of different projects.",
-      keywords: [],
+      keywords: ["maintenance", "development"],
     },
     {
       text: "Participated in cross-functional team discussions to formulate effective development and maintenance strategies throughout all systems",
-      keywords: [],
+      keywords: ["cross-functional team discussions", "development", "maintenance"],
     },
   ];
 

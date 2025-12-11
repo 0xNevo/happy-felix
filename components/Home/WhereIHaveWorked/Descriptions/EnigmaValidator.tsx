@@ -1,46 +1,43 @@
 import React from "react";
 import ArrowIcon from "../../../Icons/ArrowIcon";
 import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
-
-export default function Totle() {
+export default function EnigmaValidator() {
   const tasks = [
     {
-      text: "Mad Dog Car Club aggregates decentralized exchanges and synthetic asset providers into a suite of tools that makes it easy to access deep liquidity for DeFi assets at the best price. products using Google Assistant, Alexa, Siri and Cortana.",
-      keywords: ["Mad Dog Car Club", "Decentralized Exchanges", "Synthetic Asset Providers", "Tools", "DeFi"],
+      text: "EnigmaValidator is a Validator & Infra provider on 40+ mainnets $HYPE, $SEI, $DYDX, $TIA, $ATOM and more.  Building indexers, bots & tools.",
+      keywords: ["EnigmaValidator", "Validator", "Infra Provider", "$HYPE", "$SEI", "$DYDX", "$TIA", "$ATOM"],
     },
     {
-      text: "Developed creative concepts, UX and UI for innovative AI-powered experience startups, working closely with the production teams and the different stakeholders, using a design-thinking and user-centered approach to develop and improve user-flows and interactions.",
-      keywords: ["AI-powered experience", "UX", "UI", "user-flows", "interactions"],
+      text: "Rebuilt flagship validator dashboard (enigma-validator.com) from ground up using Next.js 14, Tailwind, and Framer Motion",
+      keywords: ["dashboard", "enigma-validator.com", "Next.js 14", "Tailwind", "Framer Motion"],
     },
     {
-      text: "Developed decentralized token with Solidity, Web3 and Front-End based on React / Next.js , Typescript, Tailwind CSS",
-      keywords: ["solidity", "web3", "react", "next.js", "typescript", "tailwind css"],
+      text: "Implemented complex reveal animations, real-time staking metrics, and multi-chain indexer visualization",
+      keywords: ["complex reveal animations", "real-time staking metrics", "multi-chain indexer visualization"],
     },
     {
-      text: "Introduced COMP token",
-      keywords: ["COMP token"],
+      text: "Deployed to Vercel with edge functions, reducing latency by 70% for European users",
+      keywords: ["vercel", "edge functions", "latency reduction", "70%"],
     },
   ];
-
   return (
     <>
       <div className="flex flex-col space-y-5 max-w-xl px-4 md:px-0">
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Senior Full Stack Engineer
-            <span className="text-AAsecondary"> @ Mad Dog Car Club</span>
+            Frontend Web3 Developer <span className="text-AAsecondary">@ EnigmaValidator</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">
-            October 2022 - April 2023
+            November 2024 - Current
           </span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
           {/* Tasks Description 1 */}
           {tasks.map((item, index) => {
             return (
-              <div key={index} className="flex flex-row space-x-1">
+              <div key={index} className="flex flex-row space-x-2">
                 <ArrowIcon className={" h-5 w-4 text-AAsecondary flex-none"} />
                 <span
                   className="text-gray-500 sm:text-sm text-xs"
