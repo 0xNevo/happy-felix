@@ -150,7 +150,7 @@ const CompaniesBar = (props) => {
             ButtonOrderOfcompanyNameBackgroundColorGreen={3}
             CompanyName="AutoScribe"
             BarPosition={122}
-            BarAvobePosition={257}
+            BarAvobePosition={386}
             DescriptionJob="AutoScribe"
             CompanyNameBackgroundColorGreen={[false, false, false, true, false, false]}
             setDescriptionJob={props.setDescriptionJob}
